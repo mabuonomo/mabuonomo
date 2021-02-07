@@ -57,7 +57,7 @@
 ---
 
 <div align="center">
-    <h2 align="center">Made with &nbsp;❤️&nbsp; in Italy!</h2>
+    <h3 align="center">Made with &nbsp;❤️&nbsp; in Italy!</h3>
 </div>
 
 <!-- <div align="center">
