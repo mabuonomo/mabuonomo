@@ -52,9 +52,12 @@
 
 <br>
 <br>
+<br>
+
+---
 
 <div align="center">
-    <h3 align="center">Made with &nbsp;❤️&nbsp; in Italy!</h3>
+    <h2 align="center">Made with &nbsp;❤️&nbsp; in Italy!</h2>
 </div>
 
 <!-- <div align="center">
