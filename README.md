@@ -8,9 +8,9 @@
   <h4 align="center"><b>"_Any sufficiently advanced technology is indistinguishable from magic_"</b></h4>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/mabuonomo" />
-</p>
+</p> -->
 
 <p align="center">
 <br>
